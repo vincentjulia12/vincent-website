@@ -1,0 +1,119 @@
+
+    .search-bar {
+      
+      padding-left: 5px;
+      padding-right: 100px;
+      padding-top: 3px;
+      padding-bottom: 3px;
+
+      margin-bottom: 10px;
+    }
+
+    .grid-container-1,
+    .grid-container-2,
+    .grid-container-3,
+    .grid-container-4,
+    .grid-container-5,
+    .grid-container-6,
+    .grid-container-7,
+    .grid-container-8 {
+      width: 300px;
+    }
+
+    .thumbnail-1,
+    .thumbnail-2,
+    .thumbnail-3,
+    .thumbnail-4,
+    .thumbnail-5,
+    .thumbnail-6,
+    .thumbnail-7,
+    .thumbnail-8,
+    .thumbnail-9 {
+      width: 100%;
+    }
+
+    .video-grid {
+      display: grid;
+      grid-template-columns: 50px 250px;
+      
+      margin-top: 5px;
+    }
+
+    .channel-picture-1,
+    .channel-picture-2,
+    .channel-picture-3,
+    .channel-picture-4,
+    .channel-picture-5,
+    .channel-picture-6,
+    .channel-picture-7,
+    .channel-picture-8 {
+      width: 40px;
+      border-radius: 100%;
+    }
+
+    .video-title-link {
+      color: black;
+      text-decoration: none;
+    }
+
+    .video-title-1,
+    .video-title-2,
+    .video-title-3,
+    .video-title-4,
+    .video-title-5,
+    .video-title-6,
+    .video-title-7,
+    .video-title-8 {
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 20px;
+
+      margin-bottom: 10px;
+
+      
+    }
+
+    .video-author-1,
+    .video-author-2,
+    .video-author-3,
+    .video-author-4,
+    .video-author-5,
+    .video-author-6,
+    .video-author-7,
+    .video-author-8 {
+      font-size: 12px;
+      color: rgb(96, 96, 96);
+
+      margin-bottom: 5px;
+    }
+
+    .video-stats-1,
+    .video-stats-2,
+    .video-stats-3,
+    .video-stats-4,
+    .video-stats-5,
+    .video-stats-6,
+    .video-stats-7,
+    .video-stats-8 {
+      font-size: 12px;
+      color: rgb(96, 96, 96);
+    }
+
+    p {
+      font-family: Roboto, Arial;
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      column-gap: 10px;
+      row-gap: 40px;
+    }
+    
+    .video-author {
+      color: rgb(96, 96, 96);
+      text-decoration: none;
+    }
+    
